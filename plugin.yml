@@ -1,0 +1,10 @@
+name: Test
+api: 4.0.0
+version: 1.0.0
+author: DUMD2
+main: Test/main
+
+commands:
+   test:
+     descripion: Testen
+     premission: op
